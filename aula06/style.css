@@ -1,0 +1,23 @@
+.title {
+  color: #ffffff;
+}
+
+.container {
+  background-color: #ff0000;
+  display: flexbox;
+  justify-content: center;
+}
+
+.weren {
+  font-size: 100px;
+  color: rgba(255, 0, 0, 0);
+}
+
+
+p{
+    color: aqua;
+
+}
+.body {font-size: 200px;
+color: darkred;
+}
